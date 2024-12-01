@@ -1,0 +1,51 @@
+.div{
+	width: 1600px;
+	height: 150px;
+	font-size: 8rem;
+	background-color:#708090 ;
+}
+.div2{
+	width: 1500px;
+	height: 170px;
+	font-size: 2rem;
+	background-color: #708090;
+}
+.div3{
+	width: 1500px;
+	height: 450px;
+	font-size: 2rem;
+	background-color: #708090;
+}
+.div4{
+	width:1500px;
+	height: 450px;
+	font-size: 2rem;
+	background-color: #708090;
+}
+.div5{
+	width: 1500px;
+	height: 450px;
+	font-size: 2rem;
+	background-color: #708090;
+}
+.div6{
+	width: 1600px;
+	height: 220px;
+	font-size: 4rem;
+	background-color: #708090;
+}
+.div7{
+	width: 1600px;
+	height: 650px;
+    background-color: #708090;
+}
+.div8{
+	width: 1600px;
+	height: 830px;
+	font-size: 2rem;
+	background-color: #708090;
+}
+
+body{
+	background-image: url("wallpapercollage.jpg");
+}
